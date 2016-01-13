@@ -8,4 +8,4 @@ One can get data from many different sources and in a variet of formats. The rea
 
 ## Working with data
 
-You'll find some examples here demonstrating how to work with data. This includes loading it, transforming it, and plotting it.
+You'll find some examples here demonstrating how to work with data. This includes loading, transforming, and plotting it.
