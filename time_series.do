@@ -2,10 +2,10 @@
 insheet using data/GDPC1.csv
 
 // parse dates
-gen date1 = qofd(date(date,"YMD"))
-tsset date1, quarterly
-label variable date "DATE"
-label variable date1 "Date"
+gen dates = date(date,"YMD")
+gen dateq = qofd(dates)
+tsset dateq, quarterly
+label variable dateq "Quarter"
 
 // plot gdp
 rename value gdp
