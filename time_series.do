@@ -2,8 +2,7 @@
 insheet using data/GDPC1.csv
 
 // parse dates
-gen date1 = date(date,"YMD")
-format date1 %tq
+gen date1 = qofd(date(date,"YMD"))
 tsset date1, quarterly
 label variable date "DATE"
 label variable date1 "Date"
