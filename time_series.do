@@ -7,12 +7,12 @@ tsset date1, quarterly
 label variable date "DATE"
 label variable date1 "Date"
 
-// plot GDP
+// plot gdp
 rename value gdp
 label variable gdp "GDP"
 tsline gdp
 
-// plot log GDP
+// plot log gdp
 gen lgdp = log(gdp)
 label variable lgdp "Log GDP"
 tsline lgdp
