@@ -1,5 +1,7 @@
 # Data Science Tutorial
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/iamlemec/data_science)
+
 To try out the Python examples here on your own, sign up for an account at [wakari.io](https://wakari.io). If you're feeling ambitious, you can also run it on your own computer using [anaconda](https://www.continuum.io/downloads). Both MATLAB and Stata can be downloaded from Pitt's [Software Download Service](https://my.pitt.edu/portal/server.pt/community/software_downloads/872).
 
 ## Getting data
