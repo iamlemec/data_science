@@ -1,7 +1,5 @@
 # Data Science Tutorial
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/iamlemec/data_science)
-
 To try out the Python examples here on your own, sign up for an account at [wakari.io](https://wakari.io). If you're feeling ambitious, you can also run it on your own computer using [anaconda](https://www.continuum.io/downloads). Both MATLAB and Stata can be downloaded from Pitt's [Software Download Service](https://my.pitt.edu/portal/server.pt/community/software_downloads/872).
 
 ## Getting data
@@ -16,3 +14,4 @@ You'll find some examples here demonstrating how to work with data. This include
 - `time_series.ipynb`: a Python notebook example
 - `time_series.m`: a MATLAB example
 - `time_series.do`: a Stata example
+- `multi_country.ipynb`: using multi-country data (with Penn World Tables)
