@@ -1,17 +1,9 @@
 # Data Science Tutorial
 
-To try out the Python examples here on your own, sign up for an account at [wakari.io](https://wakari.io). If you're feeling ambitious, you can also run it on your own computer using [anaconda](https://www.continuum.io/downloads). Both MATLAB and Stata can be downloaded from Pitt's [Software Download Service](https://my.pitt.edu/portal/server.pt/community/software_downloads/872).
+To download Python and run these notebooks on your own computer, head on over to the [anaconda download page](https://www.anaconda.com/download/).
 
-## Getting data
+There are three sessions for the tutorial:
 
-One can get data from many different sources and in a variety of formats. The real GDP data here (`data/GDPC1.csv`) is from [FRED](https://research.stlouisfed.org/fred2/). It is in CSV format (comma separated variables), which is just plain text separated by commas.
-
-## Working with data
-
-You'll find some examples here demonstrating how to work with data. This includes loading, transforming, and plotting it. Currently the examples include:
-
-- `time_series.py`: a pure Python example (requires `pandas` package)
-- `time_series.ipynb`: a Python notebook example
-- `time_series.m`: a MATLAB example
-- `time_series.do`: a Stata example
-- `multi_country.ipynb`: using multi-country data (with Penn World Tables)
+1. Intro to Python (Python Indoctrination) - `Session_1.ipynb`: How to run and use Python. Covers language basics, numerical operations with `numpy`, visualization with `matplotlib`, parsing HTML with `BeautifulSoup`, and more.
+2. Working with Data (How to replace Stata) - `Session_2.ipynb`: Data collection and manipulation. Basic statistics and econometrics with `pandas` and `statsmodels` libraries. Machine learning with `tensorflow`.
+3. Solving Models (How to replace MATLAB) - `Session_3.ipynb`: Optimization and equation solving with `scipy`. Symbolic operations and approximation. Interfacing with lower level languages and `Cython`. Practical estimation.
