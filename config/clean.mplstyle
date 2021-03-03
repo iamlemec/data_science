@@ -1,0 +1,50 @@
+font.size: 15.0
+# font.sans-serif: ['Arial','Liberation Sans','Bitstream Vera Sans','DejaVu Sans']
+# font.family: ['sans-serif']
+
+text.color: 0.15
+
+figure.subplot.bottom: 0.15
+# figure.autolayout: True
+figure.dpi: 200
+figure.facecolor: white
+savefig.facecolor: white
+
+axes.facecolor: white
+axes.edgecolor: black
+axes.labelcolor: 0.15
+axes.labelsize: 14.0
+axes.titlesize: 16.0
+# axes.prop_cycle: cycler('color', [(0.2980392156862745, 0.4470588235294118, 0.6901960784313725), (0.3333333333333333, 0.6588235294117647, 0.40784313725490196), (0.7686274509803922, 0.3058823529411765, 0.3215686274509804), (0.5058823529411764, 0.4470588235294118, 0.6980392156862745), (0.8, 0.7254901960784313, 0.4549019607843137), (0.39215686274509803, 0.7098039215686275, 0.803921568627451)])
+axes.prop_cycle: cycler('color', ['1e88e5', 'ff0d57', '13b755', (0.5058823529411764, 0.4470588235294118, 0.6980392156862745), (0.8, 0.7254901960784313, 0.4549019607843137), (0.39215686274509803, 0.7098039215686275, 0.803921568627451)])
+# axes.spines.top: False
+# axes.spines.right: False
+axes.grid: False
+axes.spines.top: False
+axes.spines.right: False
+
+#grid.color: (0.9,0.9,0.9)
+
+xtick.major.size: 6.0
+xtick.minor.pad: 4.0
+ytick.major.pad: 7.0
+xtick.color: 0.15
+ytick.labelsize: 12.0
+# ytick.direction: 'out'
+xtick.major.width: 1.0
+xtick.minor.width: 0.5
+ytick.color: 0.15
+ytick.minor.size: 3.0
+xtick.labelsize: 12.0
+ytick.minor.width: 0.5
+ytick.major.size: 6.0
+xtick.minor.size: 3.0
+xtick.major.pad: 7.0
+ytick.minor.pad: 4.0
+ytick.major.width: 1.0
+# xtick.direction: 'out'
+
+lines.linewidth: 1.75
+
+legend.frameon: False
+legend.fontsize: 14.0
