@@ -1,0 +1,11 @@
+ipython
+jupyterlab
+numpy
+scipy
+pandas
+statsmodels
+matplotlib
+seaborn
+beautifulsoup4
+sklearn
+geopandas
