@@ -1,7 +1,5 @@
 # Data Science Tutorial
 
-## Getting Set Up
-
 To use Jupyter (Python) notebooks in the cloud, your options are:
 - [Google Colab](https://colab.research.google.com/): this is pretty robust and has been around for a while. It's integrated with Google Drive and has the option of upgrading to better hardware.
 - [Kaggle Kernels](https://www.kaggle.com/kernels): similar to Google Colab, and allows you to pull in pre-arranged data sources.
