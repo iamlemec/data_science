@@ -1,5 +1,6 @@
 ipython
 jupyterlab
+ipywidgets
 numpy
 scipy
 pandas
@@ -9,3 +10,6 @@ seaborn
 beautifulsoup4
 sklearn
 geopandas
+networkx
+pandas_datareader
+pygeos
