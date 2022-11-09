@@ -11,7 +11,7 @@ Once you've installed Python, you need to download some packages. For pure Pytho
 
 There are three sessions for the tutorial:
 
-1. Intro to Python (Python Indoctrination) - `1_basics.ipynb`: How to run and use Python. Covers language basics, numerical operations with `numpy`, visualization with `matplotlib`, parsing HTML with `BeautifulSoup`, and more.
-2. Working with Data (How to replace Stata) - `2_data.ipynb`: Data collection and manipulation. Basic statistics and econometrics with `pandas` and `statsmodels` libraries. Machine learning with `tensorflow`.
-3. Solving Models (How to replace MATLAB) - `3_models.ipynb`: Optimization and equation solving with `numpy` and `scipy`. Taking gradients and optimizing with `jax`.
-4. Machine Learning - `4_machine_learning.ipynb`: Intro to machine learning methods, sort of for economists. Updated to use PyTorch!
+1. Intro to Python (Python Indoctrination) — `1_basics.ipynb`: How to run and use Python. Language basics, numerical operations with `numpy`, visualization with `matplotlib`, and more.
+2. Working with Data (How to replace Stata) — `2_data.ipynb`: Data collection and manipulation. Basic statistics with `pandas` and econometrics with `statsmodels` and `fastreg`.
+3. Differentiable Programming with JAX — `3_differentiable.ipynb`: How to level up with `jax`. Taking gradients with `grad` and `jacobian`, auto-vectorizing with `vmap`, and compiling with `jit`. Extra material on looping and optimization with `scan`.
+4. Machine Learning with PyTorch — `4_machine_learning.ipynb`: Intro to machine learning methods, sort of for economists. Updated to use PyTorch!
